@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aluria18
+- 👋 Hi, I’m Mamta Aluria
 - 👀 I’m interested in java based projects
 - 🌱 I’m currently Doing MCA
 - 💞️ I’m looking to collaborate on good project P.S i am a beginner
